@@ -1,3 +1,12 @@
+Version 1.0.3
+________________________________________________________________________________
+
+updated citation.
+
+Runtime improvement:
+- direct implementation of quantile function 
+    using quantile function of gamma distribution
+
 Version 1.0.2
 ________________________________________________________________________________
 
